@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-comments` will be documented in this file.
 
+## Unreleased
+
+* Add support for Laravel 12.x
+
 ## v1.0.0 - 2024-03-12
 
 * Support for Laravel 11.x

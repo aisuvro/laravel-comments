@@ -7,6 +7,8 @@
 
 This package provides an incredibly simple comment system for your Laravel applications.
 
+> **Compatibility:** This package supports Laravel 11 and Laravel 12.
+
 > If you're looking for a package with UI components, I highly recommend using [Spatie's `laravel-comments`](https://laravel-comments.com/) package which comes with Livewire support out of the box.
 
 ## Installation
